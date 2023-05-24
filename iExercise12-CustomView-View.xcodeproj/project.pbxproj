@@ -13,6 +13,8 @@
 		B4FD04E42A1D3FFE00E9BCBC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4FD04E22A1D3FFE00E9BCBC /* Main.storyboard */; };
 		B4FD04E62A1D3FFF00E9BCBC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B4FD04E52A1D3FFF00E9BCBC /* Assets.xcassets */; };
 		B4FD04E92A1D3FFF00E9BCBC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4FD04E72A1D3FFF00E9BCBC /* LaunchScreen.storyboard */; };
+		B4FD04F12A1D47BB00E9BCBC /* PersonalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FD04F02A1D47BB00E9BCBC /* PersonalViewController.swift */; };
+		B4FD04F32A1D4F9700E9BCBC /* CornerRadius.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FD04F22A1D4F9700E9BCBC /* CornerRadius.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		B4FD04E52A1D3FFF00E9BCBC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B4FD04E82A1D3FFF00E9BCBC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B4FD04EA2A1D3FFF00E9BCBC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B4FD04F02A1D47BB00E9BCBC /* PersonalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonalViewController.swift; sourceTree = "<group>"; };
+		B4FD04F22A1D4F9700E9BCBC /* CornerRadius.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CornerRadius.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				B4FD04DE2A1D3FFE00E9BCBC /* SceneDelegate.swift */,
 				B4FD04E02A1D3FFE00E9BCBC /* ViewController.swift */,
 				B4FD04E22A1D3FFE00E9BCBC /* Main.storyboard */,
+				B4FD04F22A1D4F9700E9BCBC /* CornerRadius.swift */,
+				B4FD04F02A1D47BB00E9BCBC /* PersonalViewController.swift */,
 				B4FD04E52A1D3FFF00E9BCBC /* Assets.xcassets */,
 				B4FD04E72A1D3FFF00E9BCBC /* LaunchScreen.storyboard */,
 				B4FD04EA2A1D3FFF00E9BCBC /* Info.plist */,
@@ -140,6 +146,8 @@
 			files = (
 				B4FD04E12A1D3FFE00E9BCBC /* ViewController.swift in Sources */,
 				B4FD04DD2A1D3FFE00E9BCBC /* AppDelegate.swift in Sources */,
+				B4FD04F32A1D4F9700E9BCBC /* CornerRadius.swift in Sources */,
+				B4FD04F12A1D47BB00E9BCBC /* PersonalViewController.swift in Sources */,
 				B4FD04DF2A1D3FFE00E9BCBC /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
